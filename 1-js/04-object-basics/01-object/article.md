@@ -161,7 +161,7 @@ alert( user.key ) // undefined
 
 ### Computed properties
 
-If you want to be flexible about naming your properties you can use something called *computed properties*.
+If you want to be flexible about naming your properties, you can use something called *computed properties*.
 
 For instance:
 
